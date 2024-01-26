@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905902029205",
+    "project_id": "messageme-app-9c096",
+    "storage_bucket": "messageme-app-9c096.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905902029205:android:18ecc49f084ae150a6de9c",
+        "android_client_info": {
+          "package_name": "look.ats.messageme_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905902029205-6srin8g6u7qh4g173mdnm9sq685bbnu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt1FKMcPBRefTmjleJKspDWWMTI8AsFa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905902029205-6srin8g6u7qh4g173mdnm9sq685bbnu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
